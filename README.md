@@ -1,6 +1,6 @@
 # Game
 
-The game was written to show the feature of Eclipse Vert.x in a presentation at http://frangarcia.net:8484. The game is basically a way of showing up the capabilities of the Vert.x event bus and how to use it. 
+The game was written to show the feature of Eclipse Vert.x in a presentation at https://vertx.frangarcia.net. The game is basically a way of showing up the capabilities of the Vert.x event bus and how to use it. 
 
 You can start the game locally with the next commands 
 
